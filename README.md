@@ -1,2 +1,3 @@
 # github-demo
-this is for practicing git and github
+This is for practicing git and github.
+Author - Ankit Singh.
